@@ -17,8 +17,11 @@ My research at OSU is focused on robustness and adversarial attacks on Question 
 
 Currently, I am also working part-time as a Machine Learning Engineer at Memorial Sloan Kettering Cancer Center (MSKCC). I built an NLP pipeline for MSKCC from scratch which is used to make inference on radiology reports. During my final year of undergrad, I interned at Homi Bhabha Center for Science Education - Tata Institute of Fundamental Research in Mumbai, India for 1 year.
 
-A data-driven personal website
+
+
+Updates:
 ======
+
 My research at OSU is focused on robustness and adversarial attacks on Question Answering models in Natural Language Processing.
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
