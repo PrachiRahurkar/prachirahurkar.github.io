@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science, Thadomal Shahani Engineering College - University of Mumbai, 2014-2018
+* M.S. in Computer Science, Oregon State University, 2018-2020
 
 Work experience
 ======
@@ -56,4 +55,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
