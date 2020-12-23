@@ -1,16 +1,39 @@
 ---
 layout: archive
-title: "Research / Professional Experience"
+title: ""
 permalink: /experience/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Research Experience
+======
+* Winter 2021: Research Assistant
+  * Oregon State University
+  * Automation of QA adversarial attacks generation
+  * Advisor: Dr. Prasad Tadepalli
 
-{% include base_path %}
+* Fall 2019 - Fall 2020: MS Thesis Research
+  * Oregon State University
+  * Robustness and Adversarial attacks in Question-Answering
+  * Advisor: Dr. Prasad Tadepalli
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Fall 2020: Independent research project
+  * Oregon State University
+  * Empirical Analysis of Brain Networks
+  * Advisor: Dr. Stephen Ramsey
+
+Professional Experience
+======
+* Aug 2020--present: Machine Learning Engineer
+  * Memorial Sloan Kettering Cancer Center, New York
+  * Project: Transformers for Radiology
+  * Supervisor: Lior Gazit
+
+* May 2020--Aug 2020: NLP Data Scientist
+  * Memorial Sloan Kettering Cancer Center, New York
+  * Project: Transformers for Radiology
+  * Supervisor: Lior Gazit
+
+* May 2019--Aug 2019: Algorithm Engineer
+  * KLA Tencor Corp., Milpitas, California
+  * Project: Image Quality Estimation

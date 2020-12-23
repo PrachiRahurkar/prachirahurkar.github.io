@@ -11,8 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science, Thadomal Shahani Engineering College - University of Mumbai, 2014-2018
-* M.S. in Computer Science, Oregon State University, 2018-2020
+* B.E. in Computer Science, Thadomal Shahani Engineering College-University of Mumbai, 2014-2018
+* M.S. in Computer Science, Oregon State University, 2018-2021
+
+Teaching Assistant
+======
+* Course: CS 361 - Software Engineering
+  * Mentored and lead 59 students in Web Application Development. Graded sprint reports, codes, and demos of the web apps
+
+* Course: CS 467 - Senior Capstone Project
+  * Mentored and lead around 60+ students in building variety of software projects, which included natural language processing, machine learning, data mining, game development, algorithms & theory of computation, Android & IoS development, reinforcement learning, etc.
+  * Responsible for grading from start to end - the weekly submissions and the final report+ demo of these software projects developed by final-year students
 
 Work experience
 ======
@@ -47,8 +56,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

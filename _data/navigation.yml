@@ -7,13 +7,13 @@ main:
     url: /projects/
 
   - title: "Publications"
-    url: /publications/    
-     
-  - title: "My Blog"
-    url: 'https://prachi-rahurkar.blogspot.com/'
-    
+    url: /publications/
+
   - title: "CV"
     url: /cv/
 
   - title: "Travel"
     url: /photos/
+
+  - title: "My Blog"
+    url: 'https://prachi-rahurkar.blogspot.com/'
