@@ -1,14 +1,44 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Photos"
+permalink: /photos/
 author_profile: true
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-{% include base_path %}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  <div class="column">
+    <img src="../images/columbia_gorge.jpg" alt="columbia_gorge" style="width:100%">
+    <span class="caption">Columbia River Gorge, OR</span>
+  </div>
 
+  <div class="column">
+    <img src="../images/ski.jpg" alt="Skiing" style="width:100%">
+    <span class="caption">Skiing at Mt. Hoodoo, OR</span>
+  </div>
+
+</div>
+</body>
+</html>

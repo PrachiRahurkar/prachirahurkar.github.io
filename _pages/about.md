@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Prachi _(pronounced: praa-chee)_.
+Hi, I am Prachi _(pronounced: praa-chee)_.
 
 I am a student at Oregon State University (OSU). I am currently pursuing Masters in Computer Science [_(AI track)_](https://eecs.oregonstate.edu/artificial-intelligence-and-robotics). I am advised by [Dr. Prasad Tadepalli](http://web.engr.oregonstate.edu/~tadepall/). Prior to OSU, I received B.E. in Computer Science from [Thadomal Shahani Engineering College](https://tsec.edu/) (affiliated to the University of Mumbai) in Mumbai, India.
 
