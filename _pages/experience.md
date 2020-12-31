@@ -36,4 +36,4 @@ Professional Experience
 
 * May 2019--Aug 2019: Algorithm Engineer
   * KLA Tencor Corp., Milpitas, California
-  * Project: Image Quality Estimation
+  * Project: Image Quality Estimation [(Poster)](..files/PosterPresentation_PrachiRahurkar.pdf)
