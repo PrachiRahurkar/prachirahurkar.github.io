@@ -5,15 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* Human Adversarial QA: Did the Model Understand the Paragraph?
+  * Prachi Rahurkar, Matt Olson, Prasad Tadepalli
+  * NeurIPS 2020 Workshop on HAMLETS
+  * [{Download}](https://openreview.net/pdf?id=57NC-S7o4Aw)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-* Brain Network Analysis
-  * Performed structural analysis on human connectome and chimpanzee connectome data.
-  * Implemented graphical measures such as centralities, motifs, clustering coefficients, max-flow, analysis of unique edges, etc. among others, and showcased differences between the two brain networks.
+* Patterns of Metastatic Disease in Patients with Cancer Derived from Natural Language Processing of Structured CT Radiology Reports over a Ten-Year Period
+  * (Under Review)
