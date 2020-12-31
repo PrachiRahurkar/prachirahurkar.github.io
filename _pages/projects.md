@@ -13,4 +13,9 @@ author_profile: true
 * Pattern Studio
   * Built a system that generates floral and geometric design patterns using self-attention GANs, and applies the generated pattern on the garment selected in the image of a user.
   * Implemented in Python (PyTorch)
-  * [{Slides}](https://docs.google.com/presentation/d/1xRVgcXDg7YeGgknBG6buW6r_LybrGCiZNQjj4Elb2Aw/edit?usp=sharing)
+  * [{Slides}](https://docs.google.com/presentation/d/1xRVgcXDg7YeGgknBG6buW6r_LybrGCiZNQjj4Elb2Aw/edit?usp=sharing) [{Report}] (Generating_Design_Patterns.pdf)
+
+* Music Generation for given Poetry Lyrics
+  * Built a system that generates floral and geometric design patterns using self-attention GANs, and applies the generated pattern on the garment selected in the image of a user.
+  * Implemented in Python (PyTorch)
+  * [{Slides}](https://docs.google.com/presentation/d/11SpXwSTZE7k_1KifqIraZRzbKDNyr07HvlKOQVzPQaw/edit?usp=sharing) [{Report}] (https://drive.google.com/file/d/1qKUB0Bo80prwkzkzJs6dSZqdqADwKVPx/view?usp=sharing)
