@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I am Prachi _(pronounced: praa-chee)_.
 
-I am a student at Oregon State University (OSU). I am currently pursuing Masters in Computer Science [_(AI track)_](https://eecs.oregonstate.edu/artificial-intelligence-and-robotics). I am advised by [Dr. Prasad Tadepalli](http://web.engr.oregonstate.edu/~tadepall/). Prior to OSU, I received B.E. in Computer Science from [Thadomal Shahani Engineering College](https://tsec.edu/) (affiliated to the University of Mumbai) in Mumbai, India.
+I am a student at Oregon State University (OSU). I am currently pursuing Masters in Computer Science [_(AI track)_](https://eecs.oregonstate.edu/artificial-intelligence-and-robotics). I am advised by [Dr. Prasad Tadepalli](https://eecs.oregonstate.edu/people/tadepalli-prasad). Prior to OSU, I received B.E. in Computer Science from [Thadomal Shahani Engineering College](https://tsec.edu/) (affiliated to the University of Mumbai) in Mumbai, India.
 
 My research at OSU is focused on robustness and adversarial attacks on Question Answering models in Natural Language Processing. My primary research interests lie in Natural Language Processing and its applications in various domains. In particular, I am interested in Multilinguality, Computational Social Science, Commonsense QA and Multimodal QA.
 
