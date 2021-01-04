@@ -22,6 +22,17 @@ Research Experience
   * Empirical Analysis of Brain Networks
   * Advisor: Dr. Stephen Ramsey
 
+* Summer 2017-Spring 2018: Research Intern
+  * Homi Bhabha Center of Science Education (Tata Institute of Fundamental Research)
+  * [NaYaNa-an alphabet for universal literacy](https://www.gnowledge.org/projects/naYana.html)
+  * Supervisor: Dr. Nagarjuna G.
+
+* Summer 2018: Independent Study
+  * Thadomal Shahani Engineering College (University of Mumbai)
+  * NLP for regional languages
+  * Mentor/Guide: Dr. Jayant Gadge
+
+
 Professional Experience
 ======
 * Aug 2020--present: Machine Learning Engineer
