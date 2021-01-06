@@ -5,10 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
+* Adversarial QA (powered by SQuAD dataset)
+  * Built an interface that allows end-users to craft adversarial paragraphs, given a SQuAD (dev-set) paragraph, and test the adversarial on the language model BERT, which runs in the back-end.
+  * Successful adversarials (where model predicts incorrectly) can be submitted to the system via the button 'Submit'.
+  * [{Interface}](http://165.227.25.235/0)  [{Code}](https://github.com/PrachiRahurkar/interface2.0)
+
 * Brain Network Analysis
   * Performed structural analysis on human connectome and chimpanzee connectome data.
   * Implemented graphical measures such as centralities, motifs, clustering coefficients, max-flow, analysis of unique edges, etc. among others, and showcased differences between the two brain networks.
-  * [{Slides}](https://docs.google.com/presentation/d/1CutcrbBQMXkr6yiEkA9jMoNvHNQbFcvQ8LKdg0V3XJU/edit?usp=sharing)  [{GitHub}](https://github.com/PrachiRahurkar/connectome_analysis)
+  * [{Slides}](https://docs.google.com/presentation/d/1CutcrbBQMXkr6yiEkA9jMoNvHNQbFcvQ8LKdg0V3XJU/edit?usp=sharing)  [{Code}](https://github.com/PrachiRahurkar/connectome_analysis)
 
 * Pattern Studio using Deep GANs
   * Built a system that generates floral and geometric design patterns using self-attention GANs, and applies the generated pattern on the garment selected in the image of a user.
