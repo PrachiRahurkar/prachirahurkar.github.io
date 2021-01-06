@@ -24,3 +24,14 @@ author_profile: true
   * Developed a neural model using stacked LSTM layers which takes poetry text as input and generates a suitable melody for it as the output.
   * Implemented in Python.
   * [{Slides}](https://docs.google.com/presentation/d/11SpXwSTZE7k_1KifqIraZRzbKDNyr07HvlKOQVzPQaw/edit?usp=sharing)  [{Report}](../files/GeneratingMelodyForLyrics.pdf)
+
+* Text-Ninja
+  * An application that can be used to find similar paragraphs across single or multiple text documents.
+  * An Android app.
+  * [{Code}](https://github.com/text-ninja)
+
+* MyMemo - TimeTable managing Personal Assistant
+  * It takes as input your activities throughout the week, for e.g. your classes, your TA hours, badminton time, etc.
+  * Based on the input information provided, it finds the vacant time available for work in the week and generates two options of timetables, which have specific times for ONLY work (research).
+  * An Android application that also reminds you of the next task (whether work/others) for the day. 
+  * [{Code}](https://github.com/text-ninja)
