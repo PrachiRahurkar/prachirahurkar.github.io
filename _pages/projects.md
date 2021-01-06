@@ -34,4 +34,9 @@ author_profile: true
   * It takes as input your activities throughout the week, for e.g. your classes, your TA hours, badminton time, etc.
   * Based on the input information provided, it finds the vacant time available for work in the week and generates two options of timetables, which have specific times for ONLY work (research).
   * An Android application that also reminds you of the next task (whether work/others) for the day. 
-  * [{Code}](https://github.com/text-ninja)
+  * [{Download App}](https://drive.google.com/file/d/11JWQ1PYFbqKUdNb5wMnWoTb-vVJ-OFIm/view?usp=sharing)  [{Code}](https://github.com/mymemo-personal-assistant/mymemo)
+
+* Unibrowser
+  * An optimized search engine only for universities and college towns.
+  * Deployed as a web-app.
+  * [{Code}](https://github.com/unibrowser)
