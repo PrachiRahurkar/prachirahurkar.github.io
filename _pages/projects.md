@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-* Adversarial QA (powered by SQuAD dataset)
+* Adversarial QA (powered by SQuAD)
   * Built an interface that allows end-users to craft adversarial paragraphs, given a SQuAD (dev-set) paragraph, and test the adversarial on the language model BERT, which runs in the back-end.
   * Successful adversarials (where model predicts incorrectly) can be submitted to the system via the button 'Submit'.
   * [{Interface}](http://165.227.25.235/0)  [{Code}](https://github.com/PrachiRahurkar/interface2.0)
