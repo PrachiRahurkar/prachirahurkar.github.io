@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-* Download my CV [here](../files/PrachiCV.pdf). (2.5 Pages)
+* Download my CV [here](../files/Prachi_RahurkarCV.pdf). (2.5 Pages)
 
 
 * Download my Resume [here](). (1 Page)
