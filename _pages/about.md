@@ -19,7 +19,7 @@ I also worked part-time as a Machine Learning Engineer at [Memorial Sloan Ketter
 
 Outside work, I love hiking, playing badminton, cooking vegetarian food, and teaching myself new languages. Check out my blog on food and travel and everything else!
 
-News:
+**News**:
 
 10th March, 2021: I successfully defended my MS thesis!
 
