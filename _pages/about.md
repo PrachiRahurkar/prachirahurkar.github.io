@@ -22,4 +22,5 @@ Outside work, I love hiking, playing badminton, cooking vegetarian food, and tea
 News:
 
 10th March, 2021: I successfully defended my MS thesis!
+
 1st Nov, 2020: My paper was accepted at NeurIPS workshop on Human and Model in the Loop Evaluation & Training Strategies!
