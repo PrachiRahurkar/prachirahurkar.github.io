@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Prachi Rahurkar"
   avatar           : "profile.jpg"
-  bio              : "NLP at Oregon State University"
-  location         : "Corvallis, OR"
+  bio              : "ML Engineer at Amazon Music"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : rahurkap@oregonstate.edu
+  email            : rahurkap@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
