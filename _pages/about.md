@@ -19,7 +19,7 @@ I graduated from Oregon State University (OSU) with a Masters in Computer Scienc
 
 I am passionate about Natural Language Processing and its applications in various domains.
 
-Outside work, I love travelling, hiking, playing badminton, painting and trying out new cuisines. Check out my blog on food and travel and everything else!
+Outside work, I love traveling, hiking, playing badminton, painting and trying out new cuisines. Check out my blog on food and travel and everything else!
 
 **News**:
 
