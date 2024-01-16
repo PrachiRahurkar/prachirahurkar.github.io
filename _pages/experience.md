@@ -5,6 +5,27 @@ permalink: /experience/
 author_profile: true
 ---
 
+Professional Experience
+======
+* Aug 2021--present: Software Engineer, Machine Learning
+  * Amazon Music, Personalization
+  * San Francisco, CA
+
+* Aug 2020--Feb 2021: Machine Learning Engineer
+  * Memorial Sloan Kettering Cancer Center, New York
+  * Project: Transformers for Radiology
+  * Manager: Lior Gazit
+
+* May 2020--Aug 2020: NLP Data Scientist
+  * Memorial Sloan Kettering Cancer Center, New York
+  * Project: Transformers for Radiology
+  * Supervisor: Lior Gazit
+
+* May 2019--Aug 2019: Algorithm Engineer
+  * KLA Tencor Corp., Milpitas, California
+  * Project: Image Quality Estimation [(Poster)](../files/PosterPresentation_PrachiRahurkar.pdf)
+
+
 Research Experience
 ======
 * Winter 2021: Research Assistant
@@ -27,24 +48,3 @@ Research Experience
   * [NaYaNa-an alphabet for universal literacy](https://www.gnowledge.org/projects/naYana.html)
   * Supervisor: Dr. Nagarjuna G.
 
-* Summer 2018: Independent Study
-  * Thadomal Shahani Engineering College (University of Mumbai)
-  * NLP for regional languages
-  * Mentor/Guide: Dr. Jayant Gadge
-
-
-Professional Experience
-======
-* Aug 2020--present: Machine Learning Engineer
-  * Memorial Sloan Kettering Cancer Center, New York
-  * Project: Transformers for Radiology
-  * Supervisor: Lior Gazit
-
-* May 2020--Aug 2020: NLP Data Scientist
-  * Memorial Sloan Kettering Cancer Center, New York
-  * Project: Transformers for Radiology
-  * Supervisor: Lior Gazit
-
-* May 2019--Aug 2019: Algorithm Engineer
-  * KLA Tencor Corp., Milpitas, California
-  * Project: Image Quality Estimation [(Poster)](../files/PosterPresentation_PrachiRahurkar.pdf)

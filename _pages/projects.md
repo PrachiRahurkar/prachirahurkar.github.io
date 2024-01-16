@@ -5,6 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
+* YouTube AI Assistant
+  * 
+  * 
+  * [{Code}](https://github.com/PrachiRahurkar)
+
+* Pets Name Generator
+  * n the back-end.
+  * S
+  * [{Code}](https://github.com/PrachiRahurkar)
+
 * Adversarial QA (powered by SQuAD)
   * Built an interface that allows end-users to craft adversarial paragraphs, given a SQuAD (dev-set) paragraph, and test the adversarial on the language model BERT, which runs in the back-end.
   * Successful adversarials (where model predicts incorrectly) can be submitted to the system via the button 'Submit'.
