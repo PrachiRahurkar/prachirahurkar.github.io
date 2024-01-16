@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 * YouTube AI Assistant
-  * 
-  * 
+  * Ask questions about any YouTube video to this LLM powered assistant.
+  * This web-app uses LangChain and Streamlit.
   * [{Code}](https://github.com/PrachiRahurkar)
 
 * Pets Name Generator
-  * n the back-end.
-  * S
-  * [{Code}](https://github.com/PrachiRahurkar)
+  * With the help of OpenAI's apis, this web-app generates pet names for your pet based on the animal type and its skin color. Pet animal and pet's color is provided as input by user.
+  * Using LangChain's LLMs, Prompts, Chains and Agents
+  * [{Code}](https://github.com/PrachiRahurkar/langchain-llm-pets)
 
 * Adversarial QA (powered by SQuAD)
   * Built an interface that allows end-users to craft adversarial paragraphs, given a SQuAD (dev-set) paragraph, and test the adversarial on the language model BERT, which runs in the back-end.

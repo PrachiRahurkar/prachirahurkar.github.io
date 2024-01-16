@@ -8,21 +8,21 @@ author_profile: true
 Professional Experience
 ======
 * Aug 2021--present: Software Engineer, Machine Learning
-  * Amazon Music, Personalization
+  * **Amazon** Music, Personalization
   * San Francisco, CA
 
 * Aug 2020--Feb 2021: Machine Learning Engineer
-  * Memorial Sloan Kettering Cancer Center, New York
+  * **Memorial Sloan Kettering Cancer Center**, New York
   * Project: Transformers for Radiology
   * Manager: Lior Gazit
 
 * May 2020--Aug 2020: NLP Data Scientist
-  * Memorial Sloan Kettering Cancer Center, New York
+  * **Memorial Sloan Kettering Cancer Center**, New York
   * Project: Transformers for Radiology
   * Supervisor: Lior Gazit
 
-* May 2019--Aug 2019: Algorithm Engineer
-  * KLA Tencor Corp., Milpitas, California
+* May 2019--Aug 2019: Algorithm Engineer (Intern)
+  * **KLA Tencor Corp**., Milpitas, California
   * Project: Image Quality Estimation [(Poster)](../files/PosterPresentation_PrachiRahurkar.pdf)
 
 
