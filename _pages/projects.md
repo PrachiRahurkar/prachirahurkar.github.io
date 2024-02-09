@@ -5,10 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
+* Music Collaborative Filtering
+  * This repo features the code for obtaining artist recommendations based on user's history of artist likes.
+  * Matrix Factorization using Alternating Least Squares is used here.
+  * [{Code}](https://github.com/PrachiRahurkar/music_collaborative_filtering)
+
 * YouTube AI Assistant
   * Ask questions about any YouTube video to this LLM powered assistant.
   * This web-app uses LangChain and Streamlit.
-  * [{Code}](https://github.com/PrachiRahurkar)
+  * [{Code}](https://github.com/PrachiRahurkar/youtube-assistant)
 
 * Pets Name Generator
   * With the help of OpenAI's apis, this web-app generates pet names for your pet based on the animal type and its skin color. Pet animal and pet's color is provided as input by user.
