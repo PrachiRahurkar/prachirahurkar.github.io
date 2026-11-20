@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I am Prachi _(pronounced: praa-chee)_.
 
-Currently, I work as a Machine Learning Engineer at Amazon. I am a part of the Personalization team in Amazon Music which builds all the recommender models across Music.
+<!-- Currently, I work as a Machine Learning Engineer at Amazon. I am a part of the Personalization team in Amazon Music which builds all the recommender models across Music.
 
 I also worked part-time as a Machine Learning Engineer at [Memorial Sloan Kettering Cancer Center](https://careers.mskcc.org/career-areas/data-science-and-engineering/) (MSKCC).
 
@@ -19,11 +19,11 @@ I graduated from Oregon State University (OSU) with a Masters in Computer Scienc
 
 I am passionate about Natural Language Processing and its applications in various domains.
 
-Outside work, I love traveling, hiking, playing badminton, painting and trying out new cuisines. Check out my blog on food and travel and everything else!
+Outside work, I love traveling, hiking, playing badminton, painting and trying out new cuisines. Check out my blog on food and travel and everything else! -->
 
 **News**:
 
-30th August, 2021: I joined the Amazon Music team in San Francisco, CA!
+<!-- 30th August, 2021: I joined the Amazon Music team in San Francisco, CA! -->
 
 3rd August, 2021: My work on finding patterns of metastatic diseases in cancer patients using Natural Language Processing & transformer models got published in the Radiology journal!
 
